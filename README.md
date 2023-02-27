@@ -1,10 +1,4 @@
-# Xray + Argo for Express.js PaaS
 
-为 JS 平台而生
-
-* * *
-
-# 目录
 
 - [项目特点](README.md#项目特点)
 - [部署](README.md#部署)
@@ -16,7 +10,7 @@
 * * *
 
 ## 项目特点:
-* 本项目用于在 Express.js PaaS 平台上部署 Xray，采用的方案为 Argo + Xray + WebSocket + TLS
+* 本项目用于在 Express.js PaaS 平台上部署，采用的方案为 Argo + Xy + WebSocket + TLS
 * 解锁 ChatGPT
 * 在浏览器查看系统各项信息，方便直观
 * 使用 CloudFlare 的 Argo 隧道，直接优选 + 隧道，CDN 不用再做 workers
@@ -88,10 +82,3 @@
 <img width="322" alt="image" src="https://user-images.githubusercontent.com/92626977/214580604-8d4f6454-3b78-41a9-b765-cff714b85638.png">
 
 
-## 鸣谢下列作者的文章和项目:
-* 前端 JS 在大佬 Nike Jeff 的项目 基础上，为了通用性和扩展功能作修改，https://github.com/hrzyang/glitch-trojan
-* 后端全部原创，如转载须注明来源。
-
-## 免责声明:
-* 本程序仅供学习了解, 非盈利目的，请于下载后 24 小时内删除, 不得用作任何商业用途, 文字、数据及图片均有所属版权, 如转载须注明来源。
-* 使用本程序必循遵守部署免责声明。使用本程序必循遵守部署服务器所在地、所在国家和用户所在国家的法律法规, 程序作者不对使用者任何不当行为负责。
